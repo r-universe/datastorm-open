@@ -1,0 +1,18 @@
+[
+  {
+    "package": "rAmCharts",
+    "oncran": true
+  },
+  {
+    "package": "shinymanager",
+    "oncran": true
+  },
+  {
+    "package": "suncalc",
+    "oncran": true
+  },
+  {
+    "package": "visNetwork",
+    "oncran": true
+  }
+]

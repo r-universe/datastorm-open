@@ -1,9 +1,5 @@
 [
   {
-    "package": "rAmCharts",
-    "oncran": true
-  },
-  {
     "package": "shinymanager",
     "oncran": true
   },
@@ -13,6 +9,10 @@
   },
   {
     "package": "visNetwork",
+    "oncran": true
+  },
+  {
+    "package": "rAmCharts",
     "oncran": true
   }
 ]

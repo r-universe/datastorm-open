@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "rAmCharts"]
 	path = rAmCharts
 	url = https://github.com/datastorm-open/ramcharts
-	shallow = true
-	registered = true
 [submodule "shinymanager"]
 	path = shinymanager
 	url = https://github.com/datastorm-open/shinymanager
-	shallow = true
-	registered = true
 [submodule "suncalc"]
 	path = suncalc
 	url = https://github.com/datastorm-open/suncalc
-	shallow = true
-	registered = true
 [submodule "visNetwork"]
 	path = visNetwork
 	url = https://github.com/datastorm-open/visnetwork
-	shallow = true
-	registered = true
